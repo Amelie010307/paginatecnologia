@@ -35,3 +35,22 @@ z-index: 3;
   50% {color:#B22BBD ;}
   100% {color:#F0F03D;}
 }
+.boton1{
+position: absolute;
+background-image: url(boton.png);
+border:#E4F13B 15px double;
+top: 200px;
+left:600px;
+width:200px ;
+height:50px;
+}
+.boton:hover{
+position: absolute;
+background-image: url(boton.png);
+border:#BE81F7 15px double;
+top: 400px;
+left:300px;
+width:100px ;
+height: 50px;
+
+}
