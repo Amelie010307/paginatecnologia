@@ -1,5 +1,5 @@
 body{
-	background-image: url(fotos/fondot.jpg);
+	background-image: url(fondot.jpg);
 	background-size: cover;
 }
 .a{
@@ -20,7 +20,7 @@ color:#ABA2A2;
 .boton1
 {
 position: absolute;
-background-image: url(fotos/1.png);
+background-image: url(1.png);
 border:#920202 10px double;
 top: 160px;
 left:100px;
@@ -30,7 +30,7 @@ height:80px;
 .boton2
 {
 position: absolute;
-background-image: url(fotos/2.png);
+background-image: url(2.png);
 border:#920202 10px double;
 top: 160px;
 left:390px;
@@ -40,7 +40,7 @@ height:80px;
 .boton3
 {
 position: absolute;
-background-image: url(fotos/3.png);
+background-image: url(3.png);
 border:#920202 10px double;
 top: 160px;
 left:690px;
@@ -50,7 +50,7 @@ height:80px;
 .boton4
 {
 position: absolute;
-background-image: url(fotos/4.png);
+background-image: url(4.png);
 border:#920202 10px double;
 top: 160px;
 left:990px;
@@ -60,7 +60,7 @@ height:80px;
 .boton5
 {
 position: absolute;
-background-image: url(fotos/5.png);
+background-image: url(5.png);
 border:#920202 10px double;
 top: 360px;
 left:100px;
@@ -70,7 +70,7 @@ height:80px;
 .boton6
 {
 position: absolute;
-background-image: url(fotos/6.png);
+background-image: url(6.png);
 border:#920202 10px double;
 top: 360px;
 left:390px;
@@ -80,7 +80,7 @@ height:80px;
 .parcial
 {
 position: absolute;
-background-image: url(fotos/7.png);
+background-image: url(7.png);
 border:#920202 10px double;
 top: 360px;
 left:690px;
@@ -90,7 +90,7 @@ height:80px;
 .final
 {
 position: absolute;
-background-image: url(fotos/8.png);
+background-image: url(8.png);
 border:#920202 10px double;
 top: 360px;
 left:990px;
